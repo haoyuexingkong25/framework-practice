@@ -1,4 +1,4 @@
-module framework
+module github.com/haoyuexingkong25/framework-practice
 
 go 1.21.3
 
